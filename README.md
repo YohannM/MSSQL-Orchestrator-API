@@ -14,21 +14,26 @@ In order to request Orchestrator Cloud API, you'll need to **register your clien
 
 Connect on your Orchestrator and go under **Admin -> External Applications** :
 
-HERE
+![image-1d3f9a6e-adcd-4d87-b478-27373961788a](https://user-images.githubusercontent.com/36423985/134393400-85f8a999-acac-4124-824b-e341282ec91d.png)
 
 
-Then click on  HERE
+Then click on  
+![image-e40936d9-2abb-49d2-809c-cf42741cd80f](https://user-images.githubusercontent.com/36423985/134393433-8f4cfa01-45e0-48d7-b171-11051aec397a.png)
 
 
 Then fill in **The Application Name**. 
+
 Then chose **Confidential Application**.
 
-Then click on HERE
+Then click on 
+
+![image-34374990-65c6-4bab-ad21-ca24a4e4fe48](https://user-images.githubusercontent.com/36423985/134393458-7f1311d5-29db-460d-ba23-72d370cab171.png)
+
 
 
 Select **Orchestrator API Access** and go under **Application Scope** (that's important to determine which OAuth workflow your app will use to authenticate) :
 
-HERE
+![image-f5fc8149-ba41-4425-9930-d3fe74dc94da](https://user-images.githubusercontent.com/36423985/134393511-d92fe8c0-b7f2-491b-970b-4f7a04add0b2.png)
 
 
 Then select the above Scopes and click Save :
@@ -90,8 +95,4 @@ EXEC	[RPA_OrchestratorAPI_StartJob]
 
 With PATH_TO_PROCESS beeing the complete path to the folder where your process is.
 E.g. Staging/TestLoggingSite for a process located here :
-
-HERE
-
-That's it ! 
-Don't hesitate to ask questions if it bugs or if some points are unclear.
+![image](https://user-images.githubusercontent.com/36423985/134393566-f2a1c29f-e75f-4efd-8432-9021714711a3.png)
